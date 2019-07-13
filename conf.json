@@ -1,0 +1,7 @@
+{
+  "isEncrypt": false,
+  "encryptKey": "goatgames@123456",
+  "dataSourcePath": "/Users/huangfuhui/go/test/input",
+  "dataOutputPath": "/Users/huangfuhui/go/test/output",
+  "dataBackupPath": "/Users/huangfuhui/go/test/backup"
+}
